@@ -1,7 +1,5 @@
-# mediumtutorial
-My (not so) first Repo
-
-I learned this from Jesse - aka [codeSTACKr][youtube]
+# My (not so) first Repo
+But the first one with some more guidance from Jesse - aka [codeSTACKr][youtube]
 
 ### Hi there, I'm José María González 👋
 
